@@ -9,6 +9,11 @@ double sub(double a , double b){
 return a - b; 
 }
 
+double mul(double a , double b){
+
+return a * b; 
+}
+
 int main(void){
 
  printf("Hello World!"); 

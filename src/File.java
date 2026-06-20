@@ -10,3 +10,7 @@ public class File
 
 }
 }
+
+test.allow
+
+

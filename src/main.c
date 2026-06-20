@@ -20,6 +20,6 @@ int main(void){
  double a = 100; 
  double b = 150; 
  printf("Summation = %d",add(a,b)); 
-
+ printf("Multiplication = %d", mul(a,b)); 
 return 0; 
 }
